@@ -1,4 +1,4 @@
-#include <iostream> // <<<  Starter Code for C++ CA1 March 2022  >>>
+#include <iostream> // <<<  Starter Code for C++ CA2 March 2023  >>>
 #include <cstdlib>
 #include <ctime>
 #include<sstream>
@@ -13,7 +13,7 @@ using namespace std;
 // Test each task as you complete it to ensure that it is correct.
 
 void question1() {  // Topic: Accessing array using Pointer Notation
-    cout << "Question 1 - arrays and pointers" << endl;
+    cout << "Question 1 - Arrays and Pointers" << endl;
 
     double array[] = {1.1, 2.2, 3.3, 4.4, 5.5};
 
